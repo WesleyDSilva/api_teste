@@ -1,9 +1,8 @@
 {
     "session": [
     {
-        "id": 1,
-      "telefone": "3030",
-      "password": "123456"      
+      "email": "wesley@hotmail.com",
+      "password": "3030"      
     }
   ]
 }
